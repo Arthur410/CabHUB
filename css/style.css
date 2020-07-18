@@ -22,6 +22,7 @@ nav, footer, header, aside {
 }
 
 html, body {
+  background:#fff;
   font-family: "Lato", sans-serif;
   max-height: 100%;
   width: 100%;
